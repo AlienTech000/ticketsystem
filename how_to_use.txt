@@ -1,0 +1,44 @@
+# How to Use the Ticket Management System
+
+Welcome to the Ticket System! This application allows you to create, manage, and track tickets within your organization. Below are the instructions on how to use the application effectively.
+
+## Features
+
+1. **Create Ticket**:
+   - Click the "Create Ticket" button in the sidebar.
+   - Fill in the required fields: First Name, Last Name, Issue, and Priority.
+   - Click "Submit" to create the ticket.
+
+2. **View All Tickets**:
+   - Click the "View All Tickets" button to display a list of all tickets in the system.
+
+3. **Search Tickets**:
+   - Click the "Search Tickets" button to look for tickets by first and last name.
+
+4. **Close Ticket**:
+   - Click the "Close Ticket" button to close an open ticket.
+   - Enter the ticket ID of the ticket you wish to close.
+
+5. **Reopen Ticket**:
+   - Click the "Reopen Ticket" button to reopen a closed ticket.
+   - Enter the ticket ID of the ticket you wish to reopen.
+
+6. **Edit Ticket**:
+   - Click the "Edit Ticket" button to modify an existing ticket.
+   - Enter the ticket ID of the ticket you wish to edit and make the necessary changes.
+
+7. **Delete Ticket**:
+   - Click the "Delete Ticket" button to remove a ticket from the system.
+   - Enter the ticket ID of the ticket you wish to delete and confirm the deletion.
+
+8. **Exit**:
+   - Click the "Exit" button to close the application.
+
+## Tips
+
+- Ensure that all required fields are filled when creating or editing a ticket.
+- Keep the ticket IDs noted for easy management of your tickets.
+- Use the search feature to quickly find tickets associated with specific individuals.
+
+Thank you for using the Ticket System!
+

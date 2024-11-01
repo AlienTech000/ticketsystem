@@ -1,0 +1,5 @@
+how to install python and tkinter
+
+1. sudo apt install python3
+2. sudo apt install python3-tk
+
